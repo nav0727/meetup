@@ -1,0 +1,9 @@
+.not-image {
+  height: 200px;
+  padding-top: 5vh;
+}
+@media screen and (min-width: 767px) {
+  .not-image {
+    height: 350px;
+  }
+}
